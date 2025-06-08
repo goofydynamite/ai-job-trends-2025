@@ -1,1 +1,0 @@
-# ai-job-trends-2025
