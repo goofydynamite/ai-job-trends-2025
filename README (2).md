@@ -98,7 +98,7 @@ If you use this dataset in your research or application, please cite as:
   author    = {Dataset Curators},
   year      = {2025},
   publisher = {GitHub},
-  url       = {https://github.com/yourusername/AI-Job-Market-Salary-2025}
+  url       = {https://github.com/goofydynamite/AI-Job-Market-Salary-2025}
 }
 ```
 
